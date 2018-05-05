@@ -1,21 +1,21 @@
 {
-  "name": "stanfordmlgroup.github.io",
+  "name": "cmuafricamlgroup.github.io",
   "version": "1.0.0",
-  "description": "Website for the Stanford Machine Learning Group",
+  "description": "Website for the CMU Africa Machine Learning Group",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stanfordmlgroup/stanfordmlgroup.github.io.git"
+    "url": "git+https://github.com/steadybits/cmuafricamlgroup.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stanfordmlgroup/stanfordmlgroup.github.io/issues"
+    "url": "https://github.com/steadybits/cmuafricamlgroup.github.io/issues"
   },
-  "homepage": "https://github.com/stanfordmlgroup/stanfordmlgroup.github.io#readme",
+  "homepage": "https://github.com/steadybits/cmuafricamlgroup.github.io#readme",
   "dependencies": {
     "browser-sync": "^2.18.12",
     "gulp": "^3.9.1",
